@@ -26,4 +26,4 @@ Possuo graduação em Economia e Física, com mestrado acadêmico em Economia pe
 * **Análise de Dados do AirBnb em New York:** https://bit.ly/3LoGngP
 * **Panorama da Covid-19 no Piauí:** https://bit.ly/3MrWZ89
 * **Detecção de Fraudes em Cartões de Crédito:** https://bityli.com/LUGPf
-* **Previsão de valor de Plano de Saúde:** https://bit.ly/3X6Zwcz
+* **Previsão de valor de Plano de Saúde:** https://bit.ly/3YYGVkn
